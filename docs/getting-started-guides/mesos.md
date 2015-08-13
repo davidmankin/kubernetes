@@ -352,9 +352,6 @@ Try out some of the standard [Kubernetes examples][9].
 
 Read about Kubernetes on Mesos' architecture in the [contrib directory][13].
 
-**NOTE:** Some examples require Kubernetes DNS to be installed on the cluster.
-Future work will add instructions to this guide to enable support for Kubernetes DNS.
-
 **NOTE:** Please be aware that there are [known issues with the current Kubernetes-Mesos implementation][7].
 
 [1]: http://mesosphere.com/docs/tutorials/run-hadoop-on-mesos-using-installer
